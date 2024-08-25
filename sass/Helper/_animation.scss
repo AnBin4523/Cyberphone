@@ -1,0 +1,11 @@
+@keyframes zoomIn {
+    from {
+        transform: scale(0) rotate(90deg);
+        opacity: 0;
+    }
+
+    to {
+        transform: scale(1) rotate(0deg);
+        opacity: 1;
+    }
+}

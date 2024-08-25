@@ -1,0 +1,20 @@
+// su dung import de ket noi scss con
+
+// variable va mixin
+@import './Helper/animation.scss';
+@import './Helper/mixin.scss';
+@import './Helper/variable.scss';
+
+// reset va custom
+@import './Base/custom.scss';
+@import './Base/reset.scss';
+
+// layout
+@import './Layout/banner.scss';
+@import './Layout/footer.scss';
+@import './Layout/header.scss';
+@import './Layout/product.scss';
+
+// theme
+@import './Theme/Dark/headerDark.scss';
+
